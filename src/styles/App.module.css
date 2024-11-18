@@ -1,0 +1,9 @@
+.container {
+    position: absolute;
+    top: 10%;
+    right: 5%;
+    width: 55vw;
+    height: 775px;
+    opacity: 0.8;
+    /* background-color: rgba(var(--mantine-color-body), 0.8); */
+}

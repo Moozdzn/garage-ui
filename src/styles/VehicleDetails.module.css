@@ -1,0 +1,7 @@
+.cardDetail {
+    border-radius: var(--mantine-radius-md);
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
